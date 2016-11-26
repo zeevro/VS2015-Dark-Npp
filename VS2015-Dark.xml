@@ -67,13 +67,13 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <LexerType name="cs" desc="C#" ext="vala">
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="F1F2F3" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="559CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="559CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">var</WordsStyle>
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="559CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="A6CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="9B9B9B" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VERBATIM" styleID="13" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VERBATIM" styleID="13" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX" styleID="14" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="57A64A" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -735,7 +735,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <!-- Attention : Don't modify the name of styleID="0" -->
         <WidgetStyle name="Global override" styleID="0" fgColor="F1F2F3" bgColor="1E1E1E" fontName="Consolas" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="F1F2F3" bgColor="1E1E1E" fontName="Consolas" fontStyle="0" fontSize="10" />
-        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="888A85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="696969" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="DCDCDC" bgColor="264F78" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="930000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="0F0F0F" fgColor="DCDCDC" fontStyle="0" fontSize="" />
