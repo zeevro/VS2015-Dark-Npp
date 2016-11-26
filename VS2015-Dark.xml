@@ -725,10 +725,10 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="NUMBER" styleID="4" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="">true false TRUE FALSE False True</WordsStyle>
             <WordsStyle name="REFERENCE" styleID="5" fgColor="CB4141" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOCUMENT HEADER" styleID="6" fgColor="559CD6" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="SCALAR" styleID="7" fgColor="A6CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="SCALAR" styleID="7" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="TEXT" styleID="8" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="9" fgColor="B4B4B4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="B4B4B4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
