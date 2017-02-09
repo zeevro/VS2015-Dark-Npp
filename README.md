@@ -17,6 +17,12 @@ Installation
 4. Select **VS2015-Dark** from the theme drop-down box.
 5. Click **Save & Close**
 
+FAQ
+----
+Load stylers.xml failed!
+
+Solution: https://github.com/Nidre/VS2015-Dark-Npp/issues?utf8=%E2%9C%93&q=is%3Aissue%20Load%20stylers.xml%20failed!
+
 Issues
 ------
 
