@@ -20,6 +20,7 @@ Installation
 FAQ
 ----
 **Load stylers.xml failed!**
+
 https://github.com/Nidre/VS2015-Dark-Npp/issues?utf8=%E2%9C%93&q=is%3Aissue%20Load%20stylers.xml%20failed!
 
 Issues
