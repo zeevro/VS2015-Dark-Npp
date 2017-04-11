@@ -730,6 +730,17 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="OPERATOR" styleID="9" fgColor="B4B4B4" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="0" fgColor="D69D85" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
+        <LexerType name="AndroidLogger" desc="Android Log Lexer (Theme Override)" ext="" excluded="no">
+            <WordsStyle name="COLOR_VERBOSE" styleID="0" fgColor="C0C0C0" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="0" />
+            <WordsStyle name="COLOR_DEBUG" styleID="1" fgColor="B6DAA7" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="1" />
+            <WordsStyle name="COLOR_INFO" styleID="2" fgColor="ABA7DA" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="2" />
+            <WordsStyle name="COLOR_WARNING" styleID="3" fgColor="FFC600" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="3" />
+            <WordsStyle name="COLOR_ERROR" styleID="4" fgColor="FF4F4F" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="4" />
+            <WordsStyle name="COLOR_USER_LEVEL" styleID="5" fgColor="FF0000" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="5" />
+            <WordsStyle name="COLOR_USER_TAG1" styleID="6" fgColor="FF4F4F" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="6">XXX</WordsStyle>
+            <WordsStyle name="COLOR_USER_TAG2" styleID="7" fgColor="FF4F4F" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="7" />
+            <WordsStyle name="COLOR_USER_TAG3" styleID="8" fgColor="FFC600" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" keywordClass="8" />
+        </LexerType>
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
